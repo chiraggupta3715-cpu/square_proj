@@ -1,0 +1,50 @@
+body{
+
+    text-align:center;
+
+    font-family:Arial;
+
+
+}
+
+.buttons{
+
+    margin:20px;
+
+}
+
+button{
+
+    padding:10px;
+
+    margin:5px;
+
+    cursor:pointer;
+
+
+}
+
+
+#boxContainer{
+
+    display:flex;
+
+    gap:20px;
+
+    justify-content:center;
+
+    flex-wrap:wrap;
+
+
+}
+
+
+.shape-box{
+
+    width:100px;
+
+    height:100px;
+    
+    background-color:gray;
+}
+
